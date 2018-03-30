@@ -1,0 +1,224 @@
+﻿17:54:45 BattlEye Server: Initialized (v1.217)
+17:54:45 Идентификатор сервера создан
+17:54:45 Game Port: 2302, Steam Query Port: 2303
+17:57:16 asd использует измененный файл данных
+17:57:16 BattlEye Server: Player #0 asd (178.91.18.215:55640) connected
+17:57:16 Игрок asd соединяется.
+17:57:17 Задание DayZ Epoch Chernarus считывается из папки.
+17:57:21 BattlEye Server: Player #0 asd - BE GUID: 763686c1d0f060e928458742450f05e7
+17:57:21 BattlEye Server: Player #0 asd - Legacy GUID: b016daeadf73542db1b4cbd552be1c7d
+17:57:24 Игрок asd присоединился (id=76561198022884892).
+17:57:24 BattlEye Server: Verified GUID (763686c1d0f060e928458742450f05e7) of player #0 asd
+17:57:38 Роли назначены.
+17:57:38 Чтение задания...
+17:57:45 Задание загружено.
+17:57:45 RaStA[39rus] использует измененный файл данных
+17:57:45 BattlEye Server: Player #1 RaStA[39rus] (31.192.135.79:2304) connected
+17:57:46 Игрок RaStA[39rus] соединяется.
+17:57:47 BattlEye Server: Player #1 RaStA[39rus] - BE GUID: 718eaaa74ad8ca3cc4c6905a3c124942
+17:57:47 Игрок RaStA[39rus] присоединился (id=76561198142716953).
+17:57:47 BattlEye Server: Verified GUID (718eaaa74ad8ca3cc4c6905a3c124942) of player #1 RaStA[39rus]
+17:57:48 BattlEye Server: Player #1 RaStA[39rus] - Legacy GUID: 10d368964e3f26e9b15bd4c91acd4cb5
+17:57:48 Игра начата.
+17:58:08 Player asd kicked off by BattlEye: PublicVariable Restriction #0
+17:58:08 Игрок asd отсоединился.
+17:59:57 Bugor использует измененный файл данных
+17:59:57 BattlEye Server: Player #2 Bugor (5.136.106.99:2304) connected
+17:59:57 Игрок Bugor соединяется.
+17:59:58 BattlEye Server: Player #2 Bugor - BE GUID: be99f94299af82c2385ffc8a7a39c14f
+17:59:58 Игрок Bugor присоединился (id=76561198151776423).
+17:59:58 BattlEye Server: Verified GUID (be99f94299af82c2385ffc8a7a39c14f) of player #2 Bugor
+17:59:59 BattlEye Server: Player #2 Bugor - Legacy GUID: e4a540ac45d5d620f5f33458886d46ca
+18:00:19 Игрок RaStA[39rus] отсоединился.
+18:00:19 BattlEye Server: Player #1 RaStA[39rus] disconnected
+18:08:34 Dell использует измененный файл данных
+18:08:34 BattlEye Server: Player #3 Dell (178.93.29.91:20587) connected
+18:08:34 Игрок Dell соединяется.
+18:08:35 BattlEye Server: Player #3 Dell - BE GUID: 6895b06a0ab40e4fa307ca34644b278d
+18:08:35 Игрок Dell присоединился (id=76561198826037147).
+18:08:35 BattlEye Server: Verified GUID (6895b06a0ab40e4fa307ca34644b278d) of player #3 Dell
+18:08:36 BattlEye Server: Player #3 Dell - Legacy GUID: 62f12dfaffffe46c0399306d916aea9b
+18:08:37 Игрок Dell отсоединился.
+18:08:37 BattlEye Server: Player #3 Dell disconnected
+18:08:42 admin использует измененный файл данных
+18:08:42 BattlEye Server: Player #3 admin (80.95.44.15:1050) connected
+18:08:42 Игрок admin соединяется.
+18:08:43 BattlEye Server: Player #3 admin - BE GUID: 8cbc38c793e0186ae61bd40e33954e63
+18:08:43 asd использует измененный файл данных
+18:08:43 BattlEye Server: Player #4 asd (178.91.18.215:33136) connected
+18:08:43 Игрок asd соединяется.
+18:08:43 Игрок admin присоединился (id=76561198090451716).
+18:08:43 BattlEye Server: Verified GUID (8cbc38c793e0186ae61bd40e33954e63) of player #3 admin
+18:08:44 BattlEye Server: Player #3 admin - Legacy GUID: 156d715080ed81d713346aa7483ad06f
+18:08:44 BattlEye Server: Player #4 asd - BE GUID: 763686c1d0f060e928458742450f05e7
+18:08:44 Игрок admin отсоединился.
+18:08:44 BattlEye Server: Player #3 admin disconnected
+18:08:45 Игрок asd присоединился (id=76561198022884892).
+18:08:45 BattlEye Server: Verified GUID (763686c1d0f060e928458742450f05e7) of player #4 asd
+18:08:45 BattlEye Server: Player #4 asd - Legacy GUID: b016daeadf73542db1b4cbd552be1c7d
+18:11:41 BattlEye Server: (Side) asd: Привет
+18:12:05 BattlEye Server: (Side) Bugor: привет пугаеш
+18:12:10 BattlEye Server: (Side) asd: Прости)
+18:12:15 BattlEye Server: (Side) asd: Помочь просто хотел
+18:12:48 BattlEye Server: (Side) asd: В трейд?
+18:12:52 BattlEye Server: (Side) Bugor: да времени тока час незнаю что успею
+18:13:37 BattlEye Server: (Side) Bugor: в пулково можно
+18:14:29 BattlEye Server: (Side) Bugor: гуд
+18:19:18 Namesake использует измененный файл данных
+18:19:18 BattlEye Server: Player #5 Namesake (176.49.41.151:2304) connected
+18:19:18 Игрок Namesake соединяется.
+18:19:19 BattlEye Server: Player #5 Namesake - BE GUID: b428c977042ba03948bd6bfdf0f23849
+18:19:20 Игрок Namesake присоединился (id=76561198202304274).
+18:19:20 BattlEye Server: Verified GUID (b428c977042ba03948bd6bfdf0f23849) of player #5 Namesake
+18:19:20 BattlEye Server: Player #5 Namesake - Legacy GUID: a02321a8de82bb698b1d23575da8b702
+18:21:27 BattlEye Server: (Side) Namesake: привет всем
+18:21:33 BattlEye Server: (Side) asd: Привет
+18:21:37 BattlEye Server: (Side) Bugor: прювет
+18:24:36 BattlEye Server: (Side) Namesake: довезеш до старого
+18:24:49 BattlEye Server: (Direct) asd: Забирай
+18:26:26 BattlEye Server: (Side) Namesake: че батов прикрутили?
+18:26:52 BattlEye Server: (Direct) asd: В смысле?
+18:26:59 BattlEye Server: (Direct) Namesake: патрули?
+18:27:01 RaStA[39rus] использует измененный файл данных
+18:27:01 BattlEye Server: Player #6 RaStA[39rus] (31.192.135.79:2304) connected
+18:27:01 Игрок RaStA[39rus] соединяется.
+18:27:02 BattlEye Server: Player #6 RaStA[39rus] - BE GUID: 718eaaa74ad8ca3cc4c6905a3c124942
+18:27:03 Игрок RaStA[39rus] присоединился (id=76561198142716953).
+18:27:03 BattlEye Server: Verified GUID (718eaaa74ad8ca3cc4c6905a3c124942) of player #6 RaStA[39rus]
+18:27:03 BattlEye Server: Player #6 RaStA[39rus] - Legacy GUID: 10d368964e3f26e9b15bd4c91acd4cb5
+18:27:16 BattlEye Server: (Direct) asd: Патрули есть
+18:27:21 BattlEye Server: (Direct) asd: Только пешие убрал
+18:27:25 BattlEye Server: (Direct) Namesake: а
+18:27:34 Игрок RaStA[39rus] отсоединился.
+18:27:34 BattlEye Server: Player #6 RaStA[39rus] disconnected
+18:27:50 BattlEye Server: (Direct) Namesake: чера извени пришлось ути запалили меня чера в 4 утра
+18:28:30 BattlEye Server: (Direct) Namesake: а че так быстро лут меняется когда лутаеш?
+18:28:51 BattlEye Server: (Direct) asd: Да вот не знаю,смотреть надо
+18:33:12 BattlEye Server: (Direct) Namesake: а еше добавль чтобы можно было за день голосовать а то сегодня скока не заходил но�
+18:33:12 BattlEye Server: (Direct) asd: Один сейф пропал да?
+18:33:23 BattlEye Server: (Direct) Namesake: не
+18:33:37 BattlEye Server: (Direct) Namesake: 2 наверху
+18:33:47 BattlEye Server: (Direct) Namesake: 1 внизу был
+18:34:05 BattlEye Server: (Direct) asd: Забор делаешь?
+18:34:13 BattlEye Server: (Direct) Namesake: да
+18:35:51 BattlEye Server: (Direct) Namesake: я как понел зомби на територию заити не могут где стоит столб?
+18:35:59 BattlEye Server: (Direct) asd: Могут
+18:36:04 BattlEye Server: (Direct) asd: Это я их удаляю
+18:36:30 BattlEye Server: (Direct) Namesake: интериесно сегодня вокруг ходили камне не подходили
+18:38:00 BattlEye Server: (Direct) Namesake: вогруг всей базы строить?
+18:38:28 BattlEye Server: (Direct) Namesake: так?
+18:38:35 BattlEye Server: (Direct) asd: Да
+18:39:21 BattlEye Server: (Direct) Namesake: загибать или даьше?
+18:39:28 BattlEye Server: (Direct) asd: Дальше
+18:39:50 BattlEye Server: (Direct) asd: Ставь по уровню
+18:39:55 BattlEye Server: (Direct) asd: С предыдущей
+18:40:03 BattlEye Server: (Direct) Namesake: тут новерно луче половинкой закрыть
+18:40:03 BattlEye Server: (Direct) asd: Потом полвинами низ закроешь
+18:41:30 BattlEye Server: (Direct) Namesake: все стен нету
+18:41:40 BattlEye Server: (Direct) asd: Я тебе вчера еще давал
+18:41:54 BattlEye Server: (Direct) Namesake: сечас на базе гляну
+18:42:43 BattlEye Server: (Direct) Namesake: 1:2 есть и все
+18:43:00 BattlEye Server: (Direct) Namesake: целых нету
+18:45:07 BattlEye Server: (Direct) Namesake: выше новерно поднимать?
+18:45:11 BattlEye Server: (Direct) asd: Не
+18:47:09 BattlEye Server: (Direct) Namesake: ворота где луче посавить?
+18:48:01 BattlEye Server: (Direct) Namesake: так?
+18:48:05 BattlEye Server: (Direct) asd: Да
+18:48:13 BattlEye Server: (Direct) asd: Это же не ворота?
+18:48:40 BattlEye Server: (Direct) Namesake: все кончелись
+18:49:04 BattlEye Server: (Direct) asd: Половины
+18:49:58 BattlEye Server: (Direct) Namesake: ставить?
+18:50:02 BattlEye Server: (Direct) asd: Да
+18:53:03 BattlEye Server: (Direct) Namesake: может векторные посавить?
+18:53:14 BattlEye Server: (Direct) Namesake: в бок каторые открываются
+18:53:26 BattlEye Server: (Direct) Namesake: двойные
+18:53:31 BattlEye Server: (Direct) asd: Сам решай
+18:53:46 BattlEye Server: (Direct) Namesake: до базы схожу возму еше одну
+18:55:57 BattlEye Server: (Direct) Namesake: видел токие вората7
+18:56:02 BattlEye Server: (Direct) asd: Нет
+18:56:47 BattlEye Server: (Direct) Namesake: я увидел на видое удобные ворта
+18:57:48 BattlEye Server: (Direct) Namesake: как тибе?
+18:58:26 BattlEye Server: (Direct) asd: Прикольно
+19:00:05 BattlEye Server: (Direct) Namesake: турбы и ежы скинуть можеш?
+19:08:02 BattlEye Server: (Direct) Namesake: до базы схожу еше возму выложил перегруз капец
+19:10:09 BattlEye Server: (Direct) Namesake: а для чего  полы под уголом?
+19:10:42 BattlEye Server: (Direct) asd: Можно и лестницу поставить
+19:10:50 BattlEye Server: (Direct) asd: Сверху откосы сделать
+19:10:58 BattlEye Server: (Direct) Namesake: чтобы остреливаться?
+19:11:01 BattlEye Server: (Direct) asd: Да
+19:12:04 BattlEye Server: (Direct) asd: Не надо
+19:14:18 BattlEye Server: (Direct) asd: сука
+19:14:27 BattlEye Server: (Direct) asd: удали
+19:14:35 BattlEye Server: (Direct) asd: а сам могу
+19:15:51 BattlEye Server: (Direct) Namesake: не разу такого не видел
+19:16:13 BattlEye Server: (Direct) asd: ТОже делай
+19:16:42 BattlEye Server: (Direct) Namesake: тепрь тока по верху?
+19:16:50 BattlEye Server: (Direct) asd: Да
+19:20:40 BattlEye Server: (Direct) Namesake: бинт есть?
+19:20:44 BattlEye Server: (Direct) asd: не
+19:27:14 Eagle использует измененный файл данных
+19:27:14 BattlEye Server: Player #6 Eagle (176.49.41.151:1063) connected
+19:27:14 Игрок Eagle соединяется.
+19:27:15 BattlEye Server: Player #6 Eagle - BE GUID: 3aceac3062a0fcad7f9928edae55aae9
+19:27:16 Игрок Eagle присоединился (id=76561198129904477).
+19:27:16 BattlEye Server: Verified GUID (3aceac3062a0fcad7f9928edae55aae9) of player #6 Eagle
+19:27:16 BattlEye Server: Player #6 Eagle - Legacy GUID: 6b3d2b3e3df8582651e8c6e9b43185c9
+19:29:45 BattlEye Server: (Direct) asd: глянь
+19:29:48 BattlEye Server: (Direct) asd: нормально?
+19:30:06 BattlEye Server: (Side) Namesake: да
+19:35:53 BattlEye Server: (Direct) Namesake: че
+19:36:14 BattlEye Server: (Direct) asd: Криво
+19:36:15 BattlEye Server: (Direct) Namesake: ставить тут?
+19:36:38 BattlEye Server: (Direct) asd: Ставь
+19:39:49 BattlEye Server: (Direct) asd: убери
+19:39:52 BattlEye Server: (Direct) asd: эту
+19:41:11 BattlEye Server: (Direct) Namesake: эту тоже новерно?
+19:41:16 BattlEye Server: (Direct) asd: да
+19:44:56 BattlEye Server: (Direct) asd: Ну что?
+19:45:03 BattlEye Server: (Direct) Namesake: класно спс
+19:45:12 BattlEye Server: (Direct) asd: Вот тут половину
+19:45:32 BattlEye Server: (Direct) Namesake: сечас поствалю
+19:46:20 aaa использует измененный файл данных
+19:46:20 BattlEye Server: Player #7 aaa (94.138.139.59:2304) connected
+19:46:20 Игрок aaa соединяется.
+19:46:21 Игрок aaa отсоединился.
+19:46:21 BattlEye Server: Player #7 aaa disconnected
+19:46:47 BattlEye Server: (Direct) asd: и площадку разверни и в центр
+19:46:59 BattlEye Server: (Direct) Namesake: сечас
+19:49:09 BattlEye Server: (Direct) asd: И вышку сделать по выше вообще круто будет
+19:51:33 BattlEye Server: (Direct) Bugor: 1 зтаж
+19:52:06 BattlEye Server: (Side) Bugor: чуть кривовато
+19:55:41 BattlEye Server: (Side) Namesake: админ можеш на 5 сек суда
+19:59:01 BattlEye Server: (Direct) Namesake: на улице ствол лежик както дюпнулся
+19:59:05 BattlEye Server: (Direct) Namesake: 24
+19:59:22 BattlEye Server: (Direct) Namesake: перезашол игру 2 24
+19:59:40 BattlEye Server: (Direct) asd: Это баг армы
+19:59:47 RaStA[39rus] использует измененный файл данных
+19:59:47 BattlEye Server: Player #7 RaStA[39rus] (31.192.135.79:2304) connected
+19:59:47 Игрок RaStA[39rus] соединяется.
+19:59:49 BattlEye Server: Player #7 RaStA[39rus] - BE GUID: 718eaaa74ad8ca3cc4c6905a3c124942
+19:59:49 Игрок RaStA[39rus] присоединился (id=76561198142716953).
+19:59:49 BattlEye Server: Verified GUID (718eaaa74ad8ca3cc4c6905a3c124942) of player #7 RaStA[39rus]
+19:59:49 BattlEye Server: (Direct) Namesake: че с ним делать удали  или че делать с ним
+19:59:49 BattlEye Server: Player #7 RaStA[39rus] - Legacy GUID: 10d368964e3f26e9b15bd4c91acd4cb5
+20:00:42 Игрок RaStA[39rus] отсоединился.
+20:00:42 BattlEye Server: Player #7 RaStA[39rus] disconnected
+20:02:28 Hatsuro использует измененный файл данных
+20:02:28 BattlEye Server: Player #7 Hatsuro (185.6.249.241:2304) connected
+20:02:28 Игрок Hatsuro соединяется.
+20:02:29 BattlEye Server: Player #7 Hatsuro - BE GUID: 423fe58d2537304b593e4c8d64c467ab
+20:02:29 Игрок Hatsuro присоединился (id=76561198310772975).
+20:02:29 BattlEye Server: Verified GUID (423fe58d2537304b593e4c8d64c467ab) of player #7 Hatsuro
+20:02:30 BattlEye Server: Player #7 Hatsuro - Legacy GUID: a9b5a6339c1ee21a41933d1cce837874
+20:04:45 NeonMurder использует измененный файл данных
+20:04:45 BattlEye Server: Player #8 NeonMurder (5.143.211.33:2304) connected
+20:04:45 Игрок NeonMurder соединяется.
+20:04:46 BattlEye Server: Player #8 NeonMurder - BE GUID: 1d88ff344b2959d1e74daebe275e0a6e
+20:04:47 BattlEye Server: Player #8 NeonMurder - Legacy GUID: cecb8d375bc6dceb05dd31b4438ebba7
+20:04:50 Игрок NeonMurder присоединился (id=76561198102181067).
+20:04:50 BattlEye Server: Verified GUID (1d88ff344b2959d1e74daebe275e0a6e) of player #8 NeonMurder
+20:09:36 BattlEye Server: (Direct) Bugor: онлайн растёт1!!
+20:31:51 Игрок Hatsuro отсоединился.
+20:31:51 BattlEye Server: Player #7 Hatsuro disconnected
+20:35:12 Player asd kicked off by BattlEye: CreateVehicle Restriction #0
+20:35:12 Игрок asd от�
